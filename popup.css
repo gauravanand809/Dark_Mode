@@ -1,0 +1,12 @@
+/* popup.css */
+button {
+    height: 30px;
+    width: 100px;
+    background-color: #000000;
+    color: white;
+  }
+  
+  body {
+    font-family: "Segoe UI", sans-serif;
+  }
+  

@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Color Changr",
+    "version": "1.0",
+    "description": "Change webpage color with RGB sliders and ensure text visibility",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
